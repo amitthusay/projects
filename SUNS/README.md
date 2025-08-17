@@ -52,12 +52,7 @@ The goal of this project is work towards developing a cost-effective, non-invasi
 
 ## Demonstration
 
-<!-- Works in repository README.md -->
-<video controls>
-  <source src="https://github.com/USER/REPO/raw/main/SUNS/assets/SUNS_Demo.mp4" type="video/mp4">
-  <!-- Fallback link if the player can't load -->
-  <a href="https://github.com/USER/REPO/raw/main/SUNS/assets/SUNS_Demo.mp4">Download the video</a>
-</video>
+<video src="assets/SUNS_GIF.mp4" controls></video>  
 
 - 🟣 **Hydrophone Output**  
 - 🟡 **LC Network Output**
