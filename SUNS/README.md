@@ -53,7 +53,7 @@ The goal of this project is work towards developing a cost-effective, non-invasi
 ## Demonstration
 > Apparently GitHub doesn't like MP4
 
-[![Watch the video](assets/SUNS_DEMO_thumbnail.jpg)](https://github.com/amitthusay/projects/raw/main/SUNS/assets/SUNS_DEMO.mov)
+<video src="assets/SUNS_DEMO.mp4" controls></video>
 
 - 🟣 **Hydrophone Output**  
 - 🟡 **LC Network Output**
