@@ -1,4 +1,4 @@
-# Projects
+<!-- # Projects
 
 Welcome! This repo collects write-ups and galleries for selected projects. Each project lives in its own folder with a dedicated README and images.
 
@@ -19,4 +19,17 @@ Each project has:
 - A **README** with overview, highlights, gallery, and next steps.
 - An **assets/** folder for images referenced by that README.
 
-If you want to link directly to a section within a project, GitHub supports heading anchors.
+If you want to link directly to a section within a project, GitHub supports heading anchors. -->
+
+# Projects
+
+Welcome! This repo collects write-ups and galleries for selected projects. Each project lives in its own folder with a dedicated README and images.
+
+---
+
+## Featured Projects
+
+| ![HESAT](HESAT/assets/HESAT_1.jpg) | ![SUNS](SUNS/assets/device.jpg) | ![SDR](SDR/assets/block.png) |
+|:---:|:---:|:---:|
+| **[Haptic-Enabled SATs](HESAT/README.md)** | **[Steerable Ultrasonic Nerve Stimulator](SUNS/README.md)** | **[SDR + FPGA Concept](SDR/README.md)** |
+| Haptic feedback in switch-adapted toys. Prototype + PCB for ReplayForKids workshop kits. | Closed-loop ultrasound + e-stim for peripheral nerves. SOURCE STEM Research funded (Summer 2025). | Multi-channel SDR transceiver; coming soon. |
