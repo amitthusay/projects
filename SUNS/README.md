@@ -18,15 +18,11 @@
 - Initial PCB and enclosure design.
 - Baseline testing with ultrasound transducer and control electronics.
 
-<p align="center">
-  <img src="assets/prototype_one_render.jpg" alt="Prototype One Render" width="600"><br>
-  <em>Prototype 1 – Render</em>
-</p>
+![Prototype One Render](assets/prototype_one_render.jpg)  
+*Prototype 1 – Render*
 
-<p align="center">
-  <img src="assets/prototype_one_layout.jpg" alt="Prototype One Layout" width="600"><br>
-  <em>Prototype 1 – Layout</em>
-</p>
+![Prototype One Layout](assets/prototype_one_layout.jpg)  
+*Prototype 1 – Layout*
 
 ---
 
@@ -34,42 +30,32 @@
 - Improved enclosure and PCB layout.
 - Refinements for usability, signal routing, and stimulation targeting.
 
-<p align="center">
-  <img src="assets/prototype_two_render.jpg" alt="Prototype Two Render" width="600"><br>
-  <em>Prototype 2 – Render</em>
-</p>
+![Prototype Two Render](assets/prototype_two_render.jpg)  
+*Prototype 2 – Render*
 
-<p align="center">
-  <img src="assets/prototype_two_layout.jpg" alt="Prototype Two Layout" width="600"><br>
-  <em>Prototype 2 – Layout</em>
-</p>
+![Prototype Two Layout](assets/prototype_two_layout.jpg)  
+*Prototype 2 – Layout*
 
 ---
 
 ## Testing Environment
 
-<p align="center">
-  <img src="assets/tank_view.jpg" alt="Tank View" width="600"><br>
-  <em>Water tank testing setup for ultrasound transducer focusing</em>
-</p>
+![Tank View](assets/tank_view.jpg)  
+*Water tank testing setup for ultrasound transducer focusing*
 
 ---
 
 ## System Flow
 
-<p align="center">
-  <img src="assets/real_time_flow_chart.jpg" alt="Real-time Flow Chart" width="700"><br>
-  <em>Real-time control and feedback loop for SUNS system</em>
-</p>
+![Real-time Flow Chart](assets/real_time_flow_chart.jpg)  
+*Real-time control and feedback loop for SUNS system*
 
 ---
 
 ## Demonstration
 
-<p align="center">
-  <img src="assets/SUNS_GIF.gif" alt="SUNS Demonstration" width="600"><br>
-  <em>Animated demonstration of prototype operation</em>
-</p>
+![SUNS Demonstration](assets/SUNS_GIF.gif)  
+*Animated demonstration of prototype operation*
 
 ---
 
