@@ -1,22 +1,20 @@
 # Steerable Ultrasonic Nerve Stimulator (SUNS)
 
-> Development of a closed-loop device that stimulates superficial peripheral nerves using focused ultrasound and traditional electrical stimulation.
-
 ---
 
 ## Overview
 
-- **Goal:** Combine focused ultrasound (FUS) with traditional e-stim to create a steerable, non-invasive nerve stimulator.  
-- **Funding:** SOURCE STEM Research funding (Summer 2025).  
-- **Status:** Early prototyping, tank testing, and real-time system workflow development.
+The goal of this project is work towards developing a cost-effective, non-invasive and easy to use clinical grade nerve stimulator that stimulates superficial peripheral nerves using focused ultrasound and traditional electrical stimulation techniques. Some symptoms that this device may be used to alleviate include peripheral and diabetic neuropathy, migraines, overactive bladder syndrome, and chronic pain. I received SOURCE STEM Funding in Summer 2025 to continue this project; I also presented my project at INTERSECTIONS Summer 2025. That summer, I developed a system that allows any game controller (an Xbox One controller was used in this case) to adjust array properties of the ultrasonic transducers in real-time. I also prototyped 2 benchtop PCBs to improve signal integrity and form-factor on the board. Below are some visualizations of the changes I implemented. I'm anticipating on purchasing the supplies for the second-prototype soon. Future goals include:
+- interfacing the device with a benchtop clinical-grade electrical stimulator (Digitimer DS5) to synchronize ultrasonic and e-stim pulses, and testing this setup in an agarose-gel phantom media with embedded sensors.
+- developing an imaging array for a closed-loop system
+- continuing to reduce board form factor
 
 ---
 
 ## Prototype Progress
 
 ### First Prototype
-- Initial PCB and enclosure design.
-- Baseline testing with ultrasound transducer and control electronics.
+- Initial PCB for improving form-factor and signal integrity
 
 ![Prototype One Render](assets/prototype_one_render.jpg)  
 *Prototype 1 – Render*
@@ -27,8 +25,8 @@
 ---
 
 ### Second Prototype
-- Improved enclosure and PCB layout.
-- Refinements for usability, signal routing, and stimulation targeting.
+- Updated board to include half-bridge gate drivers capable of driving GaN FETs
+- Included fuse and convenient capacitor bed for tuning impedance network
 
 ![Prototype Two Render](assets/prototype_two_render.jpg)  
 *Prototype 2 – Render*
@@ -41,29 +39,22 @@
 ## Testing Environment
 
 ![Tank View](assets/tank_view.jpg)  
-*Water tank testing setup for ultrasound transducer focusing*
+*Water tank for testing transducer array with hydrophone*
 
 ---
 
 ## System Flow
 
 ![Real-time Flow Chart](assets/real_time_flow_chart.jpg)  
-*Real-time control and feedback loop for SUNS system*
+*Flow Chart visualizing how real-time control for SUNS is accomplished*
 
 ---
 
 ## Demonstration
 
 ![SUNS Demonstration](assets/SUNS_GIF.gif)  
-*Animated demonstration of prototype operation*
-
----
-
-## Next Steps
-
-- Further integration of ultrasound steering with e-stim protocols.  
-- Validation with educators and clinicians.  
-- Refinement of closed-loop control algorithms and PCB for usability.  
+- 🟣 **Hydrophone Output**  
+- 🟡 **LC Network Output**
 
 ---
 
