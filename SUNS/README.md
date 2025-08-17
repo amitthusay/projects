@@ -51,10 +51,11 @@ The goal of this project is work towards developing a cost-effective, non-invasi
 ---
 
 ## Demonstration
-> Apparently GitHub doesn't like MP4
+> Apparently GitHub struggles with embedding videos on to markdown files, if you click on the image, you should be able to download the video. Sorry about that
 
-[![Watch the video](assets/SUNS_DEMO_thumbnail.jpg)](https://github.com/amitthusay/projects/blob/main/SUNS/assets/SUNS_DEMO.mov)
+[![Watch the video](assets/SUNS_DEMO_thumbnail.jpg)](https://github.com/amitthusay/projects/raw/main/SUNS/assets/SUNS_DEMO.mov)
 
+- Oscilloscope Waveform Legend
 - 🟣 **Hydrophone Output**  
 - 🟡 **LC Network Output**
 
