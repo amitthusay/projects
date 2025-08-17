@@ -1,4 +1,4 @@
-[← Back to Projects](https://amitthusay.github.io)
+[← Back to Website](https://amitthusay.github.io)
 
 # Projects
 
