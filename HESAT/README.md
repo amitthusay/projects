@@ -68,3 +68,5 @@ By combining **accessible input methods** with **haptic feedback**, HESAT aims t
 ---
 
 *This repository documents the public-facing aspects of HESAT. Source code, detailed schematics, and unpublished test results remain private.*
+
+[← Back to Projects](../README.md)

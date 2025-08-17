@@ -25,3 +25,5 @@ Welcome! This repo contains some information on the projects I've worked on so f
 > ### SDR + FPGA Concept  
 > [![SDR](SDR/assets/FPGA_SDR_cover.jpg)](SDR/README.md)  
 > Multi-channel SDR transceiver concept — *coming soon*.
+
+[← Back to Website](https://amitthusay.github.io)

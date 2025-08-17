@@ -64,3 +64,5 @@ The goal of this project is work towards developing a cost-effective, non-invasi
 ---
 
 *This repository documents public-facing details of SUNS development. Design files, source code, and proprietary schematics are kept private.*
+
+[← Back to Projects](../README.md)
