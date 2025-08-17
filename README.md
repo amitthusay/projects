@@ -1,3 +1,5 @@
+[← Back to Projects](https://amitthusay.github.io)
+
 # Projects
 
 Welcome! This repo contains some information on the projects I've worked on so far. If you have any questions about these projects or would like to reach out, please email me at amt272@case.edu.

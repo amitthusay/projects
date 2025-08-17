@@ -1,3 +1,5 @@
+[← Back to Projects](../README.md)
+
 # Haptic-Enabled Switch Adapted Toys (HESAT)
 
 ---
