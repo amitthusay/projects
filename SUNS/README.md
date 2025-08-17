@@ -52,7 +52,8 @@ The goal of this project is work towards developing a cost-effective, non-invasi
 
 ## Demonstration
 
-![SUNS Demonstration](assets/SUNS_GIF.mp4)  
+<video src="assets/SUNS_Demo.mp4" controls></video>  
+
 - 🟣 **Hydrophone Output**  
 - 🟡 **LC Network Output**
 
