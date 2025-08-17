@@ -52,7 +52,7 @@ The goal of this project is work towards developing a cost-effective, non-invasi
 
 ## Demonstration
 
-[![Watch the video](assets/real_time_flow_chart.jpg)](https://github.com/USER/REPO/raw/main/SUNS/assets/SUNS_DEMO.mp4)
+[![Watch the video](assets/real_time_flow_chart.jpg)](https://github.com/amitthusay/projects/blob/main/SUNS/assets/SUNS_DEMO.mp4)
 
 - 🟣 **Hydrophone Output**  
 - 🟡 **LC Network Output**
